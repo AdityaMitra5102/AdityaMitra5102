@@ -5,3 +5,5 @@
 ### Email adityaarghya0@gmail.com
 
 Please see my portfolio website. <a href="https://AdityaMitra5102.github.io">Portfolio</a>
+
+![AdityaMitra5102's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaMitra5102&show_icons=true&theme=radical)
