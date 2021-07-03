@@ -8,4 +8,4 @@ Please see my portfolio website. <a href="https://AdityaMitra5102.github.io">Por
 
 ![AdityaMitra5102's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaMitra5102&show_icons=true&theme=radical)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMitra5102&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMitra5102&langs_count=10)
